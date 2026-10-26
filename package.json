@@ -1,6 +1,6 @@
 {
   "name": "scoped-fs-access",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Provides a sandboxed filesystem interface that enforces all operations stay within a root directory boundary.",
   "type": "module",
   "main": "src/index.js",
